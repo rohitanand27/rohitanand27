@@ -28,7 +28,7 @@ Seaborn	Hugging Face	Jupyter Notebooks
 🔍 Real-Time Object Detection with YOLOv8 + Streamlit
 Built a web app for real-time object detection using YOLOv8, integrated with Streamlit.
 
-🦉 OWL-ViT Based Open-Vocabulary Detection
+🦉 OWL-ViT Based Open-Vocabulary Detection.
 Implemented OWL-ViT object detection with a Gradio UI, deployed on Hugging Face Spaces.
 
 
